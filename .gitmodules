@@ -1,3 +1,0 @@
-[submodule "java-magento-client"]
-	path = java-magento-client
-	url = ssh://a.trucco@git.zero11.it:29418/j2ee/java-magento-client.git
